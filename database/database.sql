@@ -1,4 +1,4 @@
--- Trigger webhook
+--- 
 -- PostgreSQL database dump
 --
 
