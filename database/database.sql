@@ -1,4 +1,4 @@
--- 
+-- Trigger security scan
 -- PostgreSQL database dump
 --
 
